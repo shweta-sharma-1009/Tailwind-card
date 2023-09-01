@@ -1,9 +1,7 @@
-Hosted link of project - 
+Hosted link of project - https://shweta-sharma-1009.github.io/Tailwind-card/dist/index.html
 
 UI-
-
 ![Screenshot (409)](https://github.com/shweta-sharma-1009/Tailwind-card/assets/128416925/7e1f84a6-85f9-40d7-83b6-ba3d4846615d)
-
 
 
 Description -
